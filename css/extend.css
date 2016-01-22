@@ -17,7 +17,6 @@
 	color: #fed137;
 }
 .expertise-a {
-	color: white;
 	position: relative;
 }
 .navbar-menu {
@@ -25,7 +24,7 @@
 	
 }
 .portfolio-sub-title {
-	color: #FF67D1;
+	color: #f93363;
 }
 .open-sans {
 	font-family: 'Open Sans', sans-serif;
@@ -85,4 +84,7 @@
 .ease {
 	-webkit-transition: all 500ms ease;
 	transition: all 500ms ease;
+}
+.fa-blugreen {
+	color: #1cbbb4;
 }
