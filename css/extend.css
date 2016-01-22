@@ -86,5 +86,8 @@
 	transition: all 500ms ease;
 }
 .fa-blugreen {
-	color: #1cbbb4;
+	color: #FDD137;
+}
+.fa-stack-1 {
+	font-size: 1.6em !important;
 }
