@@ -55,6 +55,7 @@
 	text-decoration: none;
 	background: #f0a830;
 	color: #252525;
+	cursor: pointer;
 }
 @media screen and (min-width: 1200px){
 	.w-container {
@@ -90,4 +91,7 @@
 }
 .fa-stack-1 {
 	font-size: 1.6em !important;
+}
+.portfolio-categories {
+    color: #9D9D9D;
 }
